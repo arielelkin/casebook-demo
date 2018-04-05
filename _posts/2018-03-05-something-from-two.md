@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Something from two"
+date:   2018-03-05 15:46:48 +0200
+tags: [tag_one, tag_two]
+---
+
+This is something from one and two!
+
+{{ page.tags }}
