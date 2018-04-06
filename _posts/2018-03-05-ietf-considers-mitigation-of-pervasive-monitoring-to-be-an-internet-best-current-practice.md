@@ -6,7 +6,6 @@ case_date: 2014-05-01
 tags: [position, privacy, mass surveillance]
 ---
 
-## Position
 > Pervasive Monitoring (PM) is widespread (and often covert) surveillance through intrusive gathering of protocol artefacts, including application content, or protocol metadata such as headers. Active or passive wiretaps and traffic analysis, (e.g., correlation, timing or measuring packet sizes), or subverting the cryptographic keys used to secure protocols can also be used as part of pervasivemonitoring. PM is distinguished by being indiscriminate and very large scale, rather than by introducing new types of technical compromise.
 >
 > The IETF community's technical assessment is that PM is an attack on the privacy of Internet users and organisations. The IETF community has expressed strong agreement that PM is an attack that needs to bemitigated where possible, via the design of protocols that make PM significantly more expensive or infeasible.[...]

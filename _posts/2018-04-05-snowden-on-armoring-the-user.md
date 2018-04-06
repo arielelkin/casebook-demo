@@ -6,7 +6,6 @@ case_date: 2015-07-20
 tags: [position, mass surveillance, privacy]
 ---
 
-## Position
 > The lesson of 2013 is not that the NSA is evil. It's that the path is dangerous. The network path is something that we need to help users get across safely. **Our job, as technologists, our job as engineers, our job as anybody who cares about the internet in any way, who has any kind of personal or commercial involvement is literally to armor the user, to protect the user and to make that they can get from one end of the path to the other safely without interference.**
 
 (_Emphasis added_)
@@ -18,7 +17,7 @@ Edward Snowden made this statement during the opening remarks of a Q&A session w
 ![Snowden meets IETF (screencap from linked video)](/assets/snowden-meets-IETF.jpg)
 
 
-## Source
+## Sources
 * [Transcript](https://gist.github.com/mnot/382aca0b23b6bf082116)
 * [Video](https://youtu.be/0NvsUXBCeVA)
 * [Mark Nottingham's blog post _Snowden Meets the IETF_](https://www.mnot.net/blog/2015/07/20/snowden_meets_the_ietf) ([archive](https://web.archive.org/web/20170528052824/https://www.mnot.net/blog/2015/07/20/snowden_meets_the_ietf))

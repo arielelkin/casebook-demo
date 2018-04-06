@@ -15,18 +15,21 @@ This website also collect real-world discussions of ethical issues in software e
 
 Although this website's contributors may hold ethical positions of their own, no attempt is made here to explicitly or implicitly attack or defend any particular ethical position or moral norm. If you find that an ethical position or moral norm is underrepresented, overrepresented, or misrepresented, we invite you to add or correct the relevant entries.
 
+
 ## Content policies
 ### Neutral point of view
-This website avoids advocacy, and characterizes information and issues rather than debate them. Contributors should conform to this content policy to the standard set by [Wikipedia's Neutral point of view](https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view) content policy.
+This website strives to avoids advocacy, and contributors must therefore _characterize_ information and issues rather than _debate_ them. Contributors should conform to this content policy to the standard set by [Wikipedia's Neutral point of view](https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view) content policy.
 
 ### Verifiability
 People using this website must be able to check that facts about real-world cases came from a reliable source. Content pertaining to facts about real-world cases or discussions must be verifiable to the standard set by [Wikipedia's Verifiability](https://en.wikipedia.org/wiki/Wikipedia:Verifiability) content policy. Contributors may not add entries about cases for which no reliable, published sources exist.
 
-### Original analysis and synthesis
-Entries may contain original analysis and synthesis of published material, as long as it adheres to the above **Neutral point of view** policy.
+### Brevity
+An entry must be under 1000 words (excluding its Sources, Discussion, and Related Entries sections.) An entry is not meant to provide the authoritative study of a case or discussion, it is rather meant to provide a useful overview of the matter and encourage the reader to visit the sources to carry on his or her research.
+
 
 ## Contributing
 We welcome contributions via pull requests.
+
 
 ## Content Licensing
 
